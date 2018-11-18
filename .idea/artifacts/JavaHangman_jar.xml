@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaHangman:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaHangman_jar</output-path>
+    <root id="archive" name="JavaHangman.jar">
+      <element id="module-output" name="JavaHangman" />
+    </root>
+  </artifact>
+</component>
